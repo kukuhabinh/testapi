@@ -4,12 +4,8 @@
       "name" : "My test",
       "status": "draft",
       "categories": [
-        {
-          "id": 16
-        },
-        {
-          "id": 137
-        }
+        {  "id": 16  },
+        {  "id": 137 }
       ],
       "regular_price": "30"
     },
