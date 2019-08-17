@@ -2,11 +2,7 @@
   "products": [
     { 
       "name" : "My test",
-      "status": "draft",
-      "categories": [
-        {  "id": 16  },
-        {  "id": 137 }
-      ],
+      "status": "draft",      
       "regular_price": "30"
     },
     { "id": 2, "title": "Post 2" },
