@@ -1,29 +1,31 @@
-[
-  {
-    "name" : "My test",
-    "status": "draft",
-    "categories": [
-      {  "id": 16   },
-      {  "id": 137  }
-    ],
-    "regular_price": "30"
-  },
-  {
-    "name" : "My test 1",
-    "status": "draft",
-    "categories": [
-      {  "id": 16  },
-      {  "id": 137 }
-    ],
-    "regular_price": "300"
-  },
-  {
-    "name" : "My test 2",
-    "status": "draft",
-    "categories": [
-      { "id": 16  },
-      { "id": 137 }
-    ],
-    "regular_price": "40"
-  }
-]
+{
+ products: [
+   {
+      "name" : "My test",
+      "status": "draft",
+      "categories": [
+        {  "id": 16   },
+        {  "id": 137  }
+      ],
+      "regular_price": "30"
+    },
+    {
+      "name" : "My test 1",
+      "status": "draft",
+      "categories": [
+        {  "id": 16  },
+        {  "id": 137 }
+      ],
+      "regular_price": "300"
+    },
+    {
+      "name" : "My test 2",
+      "status": "draft",
+      "categories": [
+        { "id": 16  },
+        { "id": 137 }
+      ],
+      "regular_price": "40"
+    }
+   ]
+}
