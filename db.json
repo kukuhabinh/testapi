@@ -1,4 +1,4 @@
-[
+{
   {
     "name" : "My test ",
     "status": "draft",
@@ -26,4 +26,4 @@
     ],
     "regular_price": "40",
   },
-]
+}
