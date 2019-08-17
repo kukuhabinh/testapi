@@ -1,4 +1,4 @@
-{
+[
   {
     "name" : "My test ",
     "status": "draft",
@@ -25,5 +25,5 @@
       { "id": 137 }
     ],
     "regular_price": "40",
-  },
-}
+  }
+]
